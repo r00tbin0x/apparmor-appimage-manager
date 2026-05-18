@@ -1,6 +1,6 @@
 # AppArmor AppImage Profile Manager
 
-A simple and clean Bash script to create permissive AppArmor profiles for AppImages on Ubuntu.
+A simple and clean Bash script to create permissive AppArmor profiles for AppImages on on Ubuntu and other Linux distributions.
 
 ## Features
 - Creates minimal permissive profiles (`-appimage` suffix)
